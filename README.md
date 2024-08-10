@@ -15,18 +15,18 @@
 - 机器学习研究者
 - 开源社区成员
 ## 📚 使用说明 📚
-1. **克隆项目**：`git clone https://github.com/njmxye/kimi-reverse.git`
-2. **进入根目录**：`cd kimi-reverse`
-3. **确保电脑有python3环境**：不懂自行百度下载python3以上环境
-4. **安装依赖**：`pip install -r requirements.txt`
-5. **开始研究**：遵循项目目录结构，逐步深入了解Kimi大模型
+- 1. **克隆项目**：`git clone https://github.com/njmxye/kimi-reverse.git`
+- 2. **进入根目录**：`cd kimi-reverse`
+- 3. **确保电脑有python3环境**：不懂自行百度下载python3以上环境
+- 4. **安装依赖**：`pip install -r requirements.txt`
+- 5. **开始研究**：遵循项目目录结构，逐步深入了解Kimi大模型
 ## 🚀 使用方法 🚀
-1. **填写config.json文件**：
+- 1. **填写config.json文件**：
 根据自己的需求修改config.json文件，两个cookies的格式均为Bearer xxx，xxx代表了你自己的实际cookies，具体获取方法请去kimi官网登录并进行一次对话，f12的应用程序里的本地存储里的refresh_token和access_token值
 ### **请注意，那两个token的值是不一样的（不会获取请自行百度！）**。
 记住，建议每次长时间未使用脚本（几天未使用）建议重新填写一个这个cookies，否则可能会被kimi视为身份验证无效。
-2. **运行脚本**：`python main.py`
-3. **在命令行输入问题，开始无限对话**
+- 2. **运行脚本**：`python main.py`
+- 3. **在命令行输入问题，开始无限对话**
 ## 📢 重要提醒 📢
 - **仅供学习研究**：本项目仅供学术研究使用，禁止用于任何商业及违法活动。
 - **后果自负**：如因使用者个人行为导致法律风险，责任由使用者自负。🚫
