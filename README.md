@@ -38,4 +38,25 @@
 感谢您的关注与支持！🙏
 --- 
 🔥 **声明**：本项目遵循开源协议，请遵守相关法律法规，共同维护网络秩序。🔥
+## ©️ Copyright
+
+This program is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt)
+
+```
+njmxye/kimi-reverse: Copyright (C) 2024 njmxye
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
+
 
